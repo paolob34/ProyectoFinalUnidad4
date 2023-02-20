@@ -1,0 +1,7 @@
+Tenemos una empresa que está requiriendo una solucion para evitar perder clientes potenciales, esto por la dificultad que se cuenta actualmente para la captura de los datos de sus clientes. Estan solicitando un programa que permita agilizar el proceso de hacer una cotizacion para los clientes de una forma automatica e inmediata.
+
+Para que este programa se logre realizar correctamente el cliente "Seguros TK-U" nos esta dando ciertos parametros que debemos validar y asegurarnos que sean los valores adecuados para que el funcionamiento y la informacion a mostrar al cliente final sea la correcta.
+
+El programa consiste en capturar los datos del cliente, como su nombre, la edad, si tiene o no esposa/o, tambien si tiene hijos y la cantidad, ya que las cotizaciones cuentan con un precio base el cual se modificara con recargos segun la informacion que el cliente ingrese.
+
+Resultado del programa, mostrar una cotizacion por el servicio de un seguro.

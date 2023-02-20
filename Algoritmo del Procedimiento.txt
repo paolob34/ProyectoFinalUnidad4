@@ -1,0 +1,28 @@
+Algoritmo: Crear cotizacion para cliente final de "Seguros TK-U"
+
+
+1.	Se cuenta con un plan base, al cual se le harán recargos según los criterios
+
+2.	Establecer los parámetros de los rangos y porcentajes de recargo según la edad del asegurado
+
+3.	Establecer los parámetros de los rangos y porcentajes del recargo según la edad del cónyuge del asegurado, si es que está casado o no
+
+4.	Establecer los parámetros del rango y porcentaje del recargo si el asegurado tiene o no hijos
+
+5.	Establecer las variables donde se guardaran los recargos, cumpliendo los criterios de edad del asegurado, si está casado por la edad del cónyuge, por la cantidad de hijos que tenga
+
+6.	Solicitar el nombre de la persona a asegurar
+
+7.	Validar que la persona a asegurar sea mayor de edad, Si la persona no es mayor de edad no podrá continuar con el proceso de cotización
+
+8.	Solicitar la edad del asegurado, con esto tomaremos en cuenta el primer rango de recargo, el cual se establece en 3 etapas de edades diferentes, de 18 a 24 se agregará un recargo del 10% sobre el precio base, de 25 a 49 se agregará un recargo del 20% sobre el precio base y de 50 a más años se agregará un recargo del 30% sobre el precio base.
+
+9.	Preguntar si está casado, si esto es verdadero entonces tomaremos en cuenta la edad del cónyuge para calcular el recargo, si no preguntar si tiene hijos.
+
+10.	Edad del cónyuge, con esto tomaremos en cuenta el segundo rango de recargo independiente al recargo del asegurado, el cual se establece en 3 etapas de edades diferentes, de 18 a 24 se agregará un recargo del 10% sobre el precio base, de 25 a 49 se agregará un recargo del 20% sobre el precio base y de 50 a más años se agregará un recargo del 30% sobre el precio base.
+
+11.	Preguntar si tiene hijos y la cantidad, se tomara en cuenta la cantidad de hijos para operar un tercer recargo sobre el base por la cantidad de hijos que tenga.
+
+12.	Calcular el total de recargos, tomando en cuenta los parámetros establecidos según las condiciones indicadas, la edad del asegurado, si está casado la edad del cónyuge, si tiene hijos, la cantidad de hijos que tiene.
+
+13.	Mostrar el resultado de la cotización con los cálculos finales
